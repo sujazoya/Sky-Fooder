@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4431895913170777368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5042545966747160132}
+  - component: {fileID: 2356247915789342597}
+  m_Layer: 0
+  m_Name: Level_5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5042545966747160132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4431895913170777368}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2356247915789342597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4431895913170777368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6532c59f9bbeb5941898f0eb6f82e0c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemIndex: a1000000d8000000d9000000460100007d010000100100000e0100000d010000790100007801000077010000760100002e000000650000009c000000d300000060000000610000002a00000098000000cf000000620000000c0100007101000072010000a40100006401000036010000c8000000c9000000ca000000cb00000020000000570000005600000055000000540000000f010000
+  powerupsIndex: a3000000da00000011010000480100006700000068000000690000000a0100000b0100000c0100002c000000d0000000070100003e010000cd000000ce00000000010000370100005b0000005a0000005900000058000000f900000030010000670100009e0100001b00000052000000
+  blastIndex: 340000006b000000a200000042010000430100002d000000640000000501000006010000a6010000a701000090000000c7000000fe0000001c000000f80000002f01000066010000

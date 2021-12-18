@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4431895913170777368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5042545966747160132}
+  - component: {fileID: 2356247915789342597}
+  m_Layer: 0
+  m_Name: Level_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5042545966747160132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4431895913170777368}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2356247915789342597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4431895913170777368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6532c59f9bbeb5941898f0eb6f82e0c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemIndex: 6d0000006c0000006b0000006a00000069000000a2000000340000007f0100007e0100007d0100007c0100007b010000b4010000460100009d0000009c0000009b0000009a0000000a010000d3000000650000002e0000003f0100003e0100003d0100003c0100003b0100003a01000039010000240000005b00000092000000c9000000220000005900000090000000c7000000fe00000020000000570000008e000000fc000000330100008c0000008b0000008a000000890000002f0100002e0100002d0100002c0100009b01000064010000f600000000000000
+  powerupsIndex: a3000000da00000011010000d0000000d1000000d2000000260000005d000000940000003701000036010000350100005100000088000000bf000000
+  blastIndex: d8000000d7000000d60000004201000079010000b0010000600000005f0000005e000000030100000201000001010000000100006c0100006b0100006a01000069010000c3000000c2000000c1000000c000000085000000bc000000f3000000

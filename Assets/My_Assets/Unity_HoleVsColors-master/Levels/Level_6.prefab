@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4431895913170777368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5042545966747160132}
+  - component: {fileID: 2356247915789342597}
+  m_Layer: 0
+  m_Name: Level_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5042545966747160132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4431895913170777368}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2356247915789342597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4431895913170777368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6532c59f9bbeb5941898f0eb6f82e0c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemIndex: d80000000f01000045010000440100000c010000d50000009f000000a00000007601000075010000740100007301000072010000710100009a00000099000000980000009700000096000000cf000000610000002a000000240000005b0000009200000036010000350100003401000033010000320100006b010000a2010000fd000000c60000001e0000001f00000020000000f8000000f7000000f6000000650100002e010000c000000089000000
+  powerupsIndex: 7e0100007d0100007c010000300000006700000078010000af0100002c000000630000003a0100003b0100003c0100005c00000093000000ca00000090000000c7000000690100006a0100001d000000540000008b0000002f010000660100009d0100001a0000005100000088000000
+  blastIndex: d700000032000000d30000000a0100003d0100003e010000270000002800000065010000380100006f01000058000000590000005a000000f9000000fa000000fb0000001b0000001c000000
